@@ -36,16 +36,16 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-wallet:before { content: "\f100"; }
+.flaticon-wallet:before { content: "\f100"; }
 .flaticon-computer-security:before { content: "\f101"; }
 .flaticon-law:before { content: "\f102"; }
-.flaticon-jury:before { content: "\f103"; }
+.flaticon-jury:before { content: "\f102"; }
 .flaticon-courthouse:before { content: "\f104"; }
 .flaticon-handcuffs:before { content: "\f105"; }
-    
+
     $font-Flaticon-wallet: "\f100";
     $font-Flaticon-computer-security: "\f101";
     $font-Flaticon-law: "\f102";
-    $font-Flaticon-jury: "\f103";
+    $font-Flaticon-jury: "\f102";
     $font-Flaticon-courthouse: "\f104";
     $font-Flaticon-handcuffs: "\f105";

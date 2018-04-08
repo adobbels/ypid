@@ -1082,9 +1082,9 @@ a {
     .pb_navbar .navbar-toggler i {
       font-size: 30px; }
   .pb_navbar ul > li > a {
-    color: white !important; }
+    color: #212529 !important; }
     .pb_navbar ul > li > a.active {
-      color: white !important; }
+      color: #1d82ff !important; }
   .pb_navbar ul > li.cta-btn > a > span {
     padding: 10px;
     border: 1px solid rgba(255, 255, 255, 0.5); }
